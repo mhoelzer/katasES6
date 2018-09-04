@@ -9,7 +9,7 @@ Getting started is a matter of doing the following:
 3. complete katas
 
 ## Installing Dependencies
-To install dependencies, fork this repository, and clone it clone it to your
+To install dependencies, *fork this repository, and clone it* to your
 machine. From the root of the repository. Remember that because you are
 _forking_ a repository, there is no need to create a new directory or run
 `npm init` in it first. Once you have this repository on your machine, you
