@@ -4,9 +4,9 @@ written in es5 to use es6 instead.
 
 # Getting Started
 Getting started is a matter of doing the following:
-1. install dependencies
-2. run tests
-3. complete katas
+1. Install dependencies
+2. Run tests
+3. Complete katas
 
 ## Installing Dependencies
 To install dependencies, *fork this repository, and clone it* to your
